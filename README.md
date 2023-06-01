@@ -21,7 +21,7 @@ Flashy is a Python program built using the Tkinter library that allows you to le
 
 1. Clone the repository:
 
-git clone [repository URL]
+git clone https://github.com/raimoncoding/flashcard_programming.git
 
 2. Install dependencies
 
