@@ -1,0 +1,101 @@
+Term,Meaning
+Algorithm,A step-by-step procedure for solving a problem or accomplishing a task.
+Array,A data structure that stores a fixed-size sequential collection of elements.
+Boolean,A data type that represents two possible values: True or False.
+Class,A blueprint for creating objects that defines their properties and behaviors.
+Compiler,A program that translates source code written in a high-level language into machine code.
+Constructor,A special method used for initializing objects of a class.
+Database,A structured collection of data organized and accessed electronically.
+Debugging,The process of identifying and fixing errors or defects in a program.
+Encapsulation,The bundling of data and methods together into a single unit called an object.
+Exception,"An event that occurs during the execution of a program, disrupting the normal flow of instructions."
+File,A named collection of related information stored on a storage device.
+Function,A block of code that performs a specific task and can be reused.
+GUI,"Graphical User Interface, a visual way for users to interact with a computer program."
+IDE,"Integrated Development Environment, a software application that provides comprehensive tools for software development."
+Inheritance,A mechanism that allows a class to inherit properties and behaviors from another class.
+Interface,"A set of methods that a class must implement, defining a contract for interaction."
+JSON,"JavaScript Object Notation, a lightweight data-interchange format."
+Library,A collection of precompiled routines that provide common functionality to programs.
+Loop,A programming construct that repeats a set of instructions until a certain condition is met.
+Method,A function that is associated with an object and operates on its data.
+Namespace,A container for a set of identifiers to avoid naming conflicts.
+Object,An instance of a class that encapsulates data and behaviors.
+Operator,A symbol or keyword that performs an operation on one or more operands.
+Parameter,A variable that is passed into a function or method.
+Pointer,A variable that stores the memory address of another variable.
+Recursion,A programming technique where a function calls itself.
+Regular Expression,A sequence of characters that defines a search pattern.
+Stack,A data structure that follows the Last-In-First-Out (LIFO) principle.
+String,A sequence of characters.
+Syntax,The set of rules that govern the structure and composition of a programming language.
+Thread,A single sequence of execution within a program.
+Variable,A named storage location that holds a value.
+XML,"Extensible Markup Language, a markup language that defines rules for encoding documents."
+API,"Application Programming Interface, a set of rules and protocols for building software applications."
+Big O Notation,A way to describe the efficiency of an algorithm in terms of its input size.
+Bytecode,Intermediate code that is executed by a virtual machine.
+Cache,A small and fast memory component used to store frequently accessed data.
+Client,A program or device that requests services from another program or device.
+Constructor,A special method used for initializing objects of a class.
+CPU,"Central Processing Unit, the primary component that carries out instructions of a computer program."
+Data Type,A classification of data that determines the possible values and operations on that data.
+Debugging,The process of identifying and fixing errors or defects in a program.
+Enum,A data type that consists of a set of named values.
+Framework,A reusable set of libraries or components that provides a foundation for software development.
+Git,A distributed version control system for tracking changes in source code during software development.
+Heap,A region of memory used for dynamic memory allocation.
+HTTP,"Hypertext Transfer Protocol, the protocol used for transferring data over the internet."
+IDE,"Integrated Development Environment, a software application that provides comprehensive tools for software development."
+Index,A value that identifies the position of an element in an ordered collection.
+JSON,"JavaScript Object Notation, a lightweight data-interchange format."
+Lambda Function,An anonymous function that can be used without being bound to a name.
+Loop,A programming construct that repeats a set of instructions until a certain condition is met.
+Namespace,A container for a set of identifiers to avoid naming conflicts.
+Object-Oriented Programming (OOP),A programming paradigm that uses objects and their interactions to design and build applications.
+Package,A collection of related classes and modules.
+Polymorphism,"The ability of an object to take on many forms, depending on the context."
+Query,A request for information from a database.
+Recursive Function,A function that calls itself as a subroutine.
+Semaphore,A synchronization construct used to control access to a shared resource in a concurrent system.
+Server,A computer or device that provides services to other computers or devices over a network.
+Stack,A data structure that follows the Last-In-First-Out (LIFO) principle.
+SQL,"Structured Query Language, a domain-specific language used for managing and manipulating databases."
+Static Method,A method that belongs to the class rather than an instance of the class.
+Syntax,The set of rules that govern the structure and composition of a programming language.
+Test-Driven Development (TDD),A software development process that emphasizes writing tests before writing the code.
+Tuple,An immutable sequence of elements.
+URL,"Uniform Resource Locator, a web address that specifies the location of a resource on the internet."
+Variable,A named storage location that holds a value.
+XML,"Extensible Markup Language, a markup language that defines rules for encoding documents."
+API,"Application Programming Interface, a set of rules and protocols for building software applications."
+Boolean,A data type that represents two possible values: True or False.
+Bytecode,Intermediate code that is executed by a virtual machine.
+Cache,A small and fast memory component used to store frequently accessed data.
+Client,A program or device that requests services from another program or device.
+CPU,"Central Processing Unit, the primary component that carries out instructions of a computer program."
+Data Type,A classification of data that determines the possible values and operations on that data.
+Debugging,The process of identifying and fixing errors or defects in a program.
+Enum,A data type that consists of a set of named values.
+Framework,A reusable set of libraries or components that provides a foundation for software development.
+Git,A distributed version control system for tracking changes in source code during software development.
+Heap,A region of memory used for dynamic memory allocation.
+HTTP,"Hypertext Transfer Protocol, the protocol used for transferring data over the internet."
+IDE,"Integrated Development Environment, a software application that provides comprehensive tools for software development."
+Index,A value that identifies the position of an element in an ordered collection.
+JSON,"JavaScript Object Notation, a lightweight data-interchange format."
+Lambda Function,An anonymous function that can be used without being bound to a name.
+Loop,A programming construct that repeats a set of instructions until a certain condition is met.
+Namespace,A container for a set of identifiers to avoid naming conflicts.
+Object-Oriented Programming (OOP),A programming paradigm that uses objects and their interactions to design and build applications.
+Package,A collection of related classes and modules.
+Polymorphism,"The ability of an object to take on many forms, depending on the context."
+Query,A request for information from a database.
+Recursive Function,A function that calls itself as a subroutine.
+Semaphore,A synchronization construct used to control access to a shared resource in a concurrent system.
+Server,A computer or device that provides services to other computers or devices over a network.
+Stack,A data structure that follows the Last-In-First-Out (LIFO) principle.
+SQL,"Structured Query Language, a domain-specific language used for managing and manipulating databases."
+Static Method,A method that belongs to the class rather than an instance of the class.
+Syntax,The set of rules that govern the structure and composition of a programming language.
+Test-Driven Development (TDD),A software development process that emphasizes writing tests before writing the code.
