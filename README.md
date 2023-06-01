@@ -4,10 +4,10 @@ Flashy is a Python program built using the Tkinter library that allows you to le
 
 ## Features
 
-- Randomly presents flashcards with terms and their meanings
-- Flip the flashcards to reveal the meanings
-- Remove known flashcards from the deck
-- Customizable with your own set of flashcards
+- Randomly presents flashcards with terms and their meanings.
+- Automatically flips the flashcard every 3 seconds to reveal the meaning.
+- Click the 'Known' button to remove the current flashcard from the deck and proceed to the next one.
+- Creates a new list without the known flashcards for future practice.
 
 ## Getting Started
 
@@ -29,16 +29,15 @@ cd flashy
 3. Run the program:
 
 python flashy.py
-
 // python3 flashy.py for MacOs users
-
 
 ## Usage
 
 1. Upon launching the program, a flashcard will be displayed with a term on one side.
-2. Click the flashcard to flip it and reveal the meaning on the other side.
+2. The flashcard will automatically flip after 3 seconds to reveal the meaning on the other side.
 3. If you already know the term, click the 'Known' button to remove it from the deck and proceed to the next flashcard.
-4. Continue flipping and removing flashcards until you have learned all the terms.
+4. The program will create a new list without the known flashcards for future practice.
+5. Continue with the new flashcards until you have learned all the terms.
 
 ## Contributing
 
