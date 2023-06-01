@@ -51,6 +51,6 @@ Contributions are welcome! If you'd like to contribute to Flashy, please follow 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). The MIT License is a permissive open-source license that allows you to use, modify, and distribute the code in both commercial and non-commercial projects. However, it provides no warranty or liability protection. Please review the terms of the [license](https://github.com/raimoncoding/flashcard_programming/blob/main/LICENSE.txt) for more details.
+This project is licensed under the MIT LICENSE. The MIT License is a permissive open-source license that allows you to use, modify, and distribute the code in both commercial and non-commercial projects. However, it provides no warranty or liability protection. Please review the terms of the [license](https://github.com/raimoncoding/flashcard_programming/blob/main/LICENSE.txt) for more details.
 
 
