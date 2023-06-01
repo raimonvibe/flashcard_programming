@@ -15,6 +15,7 @@ Flashy is a Python program built using the Tkinter library that allows you to le
 
 - Python 3.x
 - Tkinter library
+- Pandas Library
 
 ### Installation
 
