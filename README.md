@@ -23,9 +23,9 @@ Flashy is a Python program built using the Tkinter library that allows you to le
 
 git clone [repository URL]
 
-2. Change to the project directory:
+2. Install dependencies
 
-cd flashy
+pip install pandas
 
 3. Run the program:
 
