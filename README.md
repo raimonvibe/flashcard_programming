@@ -1,5 +1,9 @@
 # Flashy - Flashcard Learning Program
 
+Watch the demo on YouTube: [A Fun and Effective Way to Memorize Programming Terminology](https://www.youtube.com/watch?v=ldnk_Csg5Zg)
+
+![Flashcard Demo](flashcard_demo.gif)
+
 Flashy is a Python program built using the Tkinter library that allows you to learn and memorize information using flashcards. It's a fun and interactive way to study and can be customized to suit different learning needs.
 
 ## Features
